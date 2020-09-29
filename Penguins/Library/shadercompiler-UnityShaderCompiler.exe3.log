@@ -1,0 +1,59 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.3.14f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.3.14f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=59196 outsize=2640 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=59196 outsize=2029 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=59196 outsize=1407 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=59196 outsize=1667 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=59196 outsize=1597 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=59196 outsize=1610 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=59196 outsize=1324 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=59196 outsize=1310 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=59196 outsize=1369 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=59196 outsize=1682 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=59196 outsize=1383 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=59196 outsize=1359 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=59196 outsize=1547 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=59196 outsize=1387 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=59196 outsize=1819 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=59196 outsize=2259 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=59196 outsize=1819 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=59196 outsize=1341 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=59196 outsize=1590 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=59196 outsize=1680 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=59196 outsize=2477 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=33531 outsize=1383 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=33531 outsize=1336 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=33531 outsize=1248 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=33531 outsize=1369 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=33531 outsize=1618 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=75191 outsize=26077 ok=1
+Cmd: initializeCompiler
+
+Quitting shader compiler process
