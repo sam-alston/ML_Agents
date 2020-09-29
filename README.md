@@ -3,6 +3,8 @@ Contains Unity ML Agents projects
 
 These are educational projects created to learn about Machine Learning and the ML-Agents Unity library.
 
+Scripts are written in C#.
+
 1. HungryBlocks is a completely original project that trains a cube to navigate a room with no obstacles to find a target.
 
 2. Penguins is an update to the code walkthrough in: https://www.immersivelimit.com/tutorials/unity-ml-agents-penguins
